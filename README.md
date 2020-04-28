@@ -1,11 +1,11 @@
 Getting and Cleaning Data
 
-Dataset
+##Dataset
 
 Human Activity Recognition Using Smartphones
 
 
-Course Project
+##Course Project
 
 You should create one R script called run_analysis.R that does the following.
 
@@ -20,7 +20,7 @@ You should create one R script called run_analysis.R that does the following.
 5-Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Files
+##Files
 
 -CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
